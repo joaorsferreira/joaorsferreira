@@ -43,7 +43,7 @@ Open To:
   - Learning opportunities
 ```
 
-> ⚠️ *Placeholder — confirmar "Open To" antes de publicar.*
+> 
 
 ---
 
@@ -81,7 +81,7 @@ Open To:
 
 <div align="center">
 
-⚠️ **Placeholders por preencher:** links de LinkedIn / Portfolio / Email, secção "Open To".
+
 
 </div>
 
