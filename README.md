@@ -68,9 +68,7 @@ Open To:
 **Backend & Databases**
 
 <div align="center">
-
-*(a preencher)*
-
+<img src="https://skillicons.dev/icons?i=spring,postgres" />
 </div>
 
 **Cloud, DevOps & Tooling**
@@ -83,6 +81,16 @@ Open To:
 
 <div align="center">
 
-⚠️ **Placeholders por preencher:** links de LinkedIn / Portfolio / Email, secção "Open To", stack de Backend & Databases.
+⚠️ **Placeholders por preencher:** links de LinkedIn / Portfolio / Email, secção "Open To".
+
+</div>
+
+---
+
+<div align="center">
+
+## 🐍 Contribution Snake
+
+<img src="https://raw.githubusercontent.com/joaorsferreira/joaorsferreira/output/github-contribution-grid-snake.svg" alt="contribution snake animation" />
 
 </div>
